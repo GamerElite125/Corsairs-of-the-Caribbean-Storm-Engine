@@ -1,0 +1,19 @@
+Corsairs of the Caribbean
+Rework, English edition, new features and launcher: DIRERAVEN
+
+Built on
+  Corsairs Ship Pack - LEOPARD's team and contributors (Gregg, Qwerry St., Bestreducer,
+  retardokillas, DmitrySusokolov, Zendayo, Assainisateur, Noctus, Nikk, Shanks, IG Baron,
+  Googman, DH27, Arty aka Artes999 and everyone listed in the in-game credits)
+  Storm Engine - Akella and the storm-devs open-source project (GNU GPL v3)
+  Sea Dogs / Age of Pirates: City of Abandoned Ships - Akella / Seaward
+
+Ships from New Horizons: Refined Edition (when included)
+  New Horizons team and contributors: ChezJfrey, Sebrian, Mirsaneli, Kill_Phill, Quiet-Sun,
+  mitrokosta, MrMyth92, Lipsar, Pieter Boelen, DH27, Tarelius, Baste, AkrimalS, Poega_73,
+  bobek55_1, Viktor A Sakharov and the original ship authors
+
+The full credits list is in the game: Main menu > Credits.
+
+Corsairs of the Caribbean is a free, non-commercial fan project.
+It is not an official Sea Dogs, Corsairs or Pirates of the Caribbean release.
